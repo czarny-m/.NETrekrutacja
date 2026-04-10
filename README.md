@@ -152,19 +152,3 @@ https://localhost:xxxx/swagger
 4. Otrzymanie bieżących danych oraz najlepszych godzin według Comfort Score
 5. Kolejny import tego samego miasta i porównanie trendu względem poprzedniego zapisu
 
-## Co pokazuje ten projekt
-Projekt pokazuje praktyczne użycie:
-- komunikacji z zewnętrznym API,
-- zapisu danych do bazy,
-- projektowania prostego API HTTP,
-- wydzielenia logiki biznesowej do osobnych serwisów,
-- podstaw testowania jednostkowego,
-- przygotowania aplikacji gotowej do uruchomienia po pobraniu z repozytorium.
-
-## Możliwe dalsze rozszerzenia
-Projekt można w prosty sposób rozwinąć o:
-- cache wyników,
-- harmonogram automatycznych importów,
-- bardziej rozbudowaną analizę warunków pogodowych,
-- filtrowanie historii po dacie,
-- konteneryzację w Dockerze.
